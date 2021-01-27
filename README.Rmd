@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # IPCAPS <img src="man/figures/ipcaps_logo.png" align="right" />
 
 <!-- badges: start -->
+[![Lifecycle: archived](https://img.shields.io/badge/lifecycle-archived-red.svg)](https://www.tidyverse.org/lifecycle/#archived)
 <!-- badges: end -->
 
 ```IPCAPS``` is an unsupervised clustering algorithm based on 
